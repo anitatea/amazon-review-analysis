@@ -1,12 +1,11 @@
 # Amazon Review Dataset
 
-Analysis with Amazon Reviews
+Mining , pre-processing and embedding over 1 million Amazon "Video Games" reviews to build a multi class Naive Bayes model and later a CNN-LSTM model (that uses the Naive Bayes model as a baseline) to predict rating from text.
 
 # Overview
+✍️ WIP ✍️ - Stay Tuned!
 
-
-This dataset contains several million reviews of Amazon products.
-
+<!--
 "Whiteboarded" analysis:
 
 ** similarity between two different products
@@ -30,9 +29,9 @@ Blog - what if we take this certain product and follow it thru the ML journey?
 Flask app - put in a product?
 
 
-✍️ WIP ✍️ - Stay Tuned!
 
-Improvement - what does this mean for product brand?
+
+Improvement - what does this mean for product brand? -->
 
 
 Data source: https://nijianmo.github.io/amazon/index.html
