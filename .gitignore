@@ -1,3 +1,4 @@
+video_games_reviews.csv
 .ipynb_checkpoints
 .env
 .DS_Store
@@ -5,4 +6,3 @@ test.csv
 train.csv
 meta_Video_Games.json.gz
 Video_Games.json.gz
-video_games_reviews.csv
